@@ -48,6 +48,7 @@
         "downsize": "0.0.2",
         "validator": "1.4.0",
         "rss": "0.2.0",
+        "pg": "latest",
         "nodemailer": "0.5.2"
     },
     "optionalDependencies": {
